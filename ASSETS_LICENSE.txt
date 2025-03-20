@@ -1,0 +1,11 @@
+Game Assets License (CC-BY-NC)
+
+The assets in this repository (textures, models, sounds, UI elements) are 
+licensed under Creative Commons Attribution-NonCommercial (CC-BY-NC). 
+
+This means:
+✅ You can use and modify these assets for personal and non-commercial projects.
+❌ You cannot sell or use them in commercial projects without permission.
+✅ Credit must be given to [Your Name].
+
+This does NOT apply to the C# scripts, which are under the MIT License.
