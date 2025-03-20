@@ -33,6 +33,9 @@ This is a time-limited collection game where players spawn in the middle of an a
 The high score can be reset at any time from the main menu if you want to start fresh.
 
 ---
+![Image](https://github.com/user-attachments/assets/c4d3f717-95f8-4517-9d7c-49975f4ff5d3)
+![Image](https://github.com/user-attachments/assets/7c32d680-7d5c-4abb-823f-55554a57a6ae)
+![Image](https://github.com/user-attachments/assets/661db0f7-5b92-404b-bed6-7666f74721c5)
 
 **Technologies Used**:
 - Unity 3D for game development.
