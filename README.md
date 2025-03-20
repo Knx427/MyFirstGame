@@ -39,6 +39,11 @@ The high score can be reset at any time from the main menu if you want to start 
 
 ![Image](https://github.com/user-attachments/assets/7c32d680-7d5c-4abb-823f-55554a57a6ae)
 
+## 📜 Licensing
+
+- 📝 **Game Code** (C# Scripts in `Assets/Scripts/`) → Licensed under the **MIT License**.
+- 🎨 **Game Assets** (Textures, Sounds, Models, etc.) → Licensed under **CC-BY-NC** (Non-Commercial).
+- 🚀 This means you can modify the game’s code freely but **cannot sell or use the assets commercially** without permission.
 
 **Technologies Used**:
 - Unity 3D for game development.
