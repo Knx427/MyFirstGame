@@ -48,5 +48,6 @@ The high score can be reset at any time from the main menu if you want to start 
 **Technologies Used**:
 - Unity 3D for game development.
 - C# for scripting.
+- Blender for modeling.
 
 Enjoy the game, and try to beat your high score!
